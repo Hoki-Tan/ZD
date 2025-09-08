@@ -1,0 +1,132 @@
+
+lvzou.png
+size: 264,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+er1
+  rotate: true
+  xy: 152, 332
+  size: 38, 97
+  orig: 38, 97
+  offset: 0, 0
+  index: -1
+er2
+  rotate: true
+  xy: 57, 384
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 12, 10
+  size: 240, 188
+  orig: 240, 188
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 130, 208
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 12, 230
+  size: 104, 106
+  orig: 106, 108
+  offset: 1, 1
+  index: -1
+tui1-1
+  rotate: true
+  xy: 64, 344
+  size: 30, 33
+  orig: 33, 36
+  offset: 1, 2
+  index: -1
+tui4-1
+  rotate: true
+  xy: 64, 344
+  size: 30, 33
+  orig: 33, 36
+  offset: 1, 2
+  index: -1
+tui1-2
+  rotate: false
+  xy: 12, 387
+  size: 33, 17
+  orig: 35, 19
+  offset: 1, 1
+  index: -1
+tui4-2
+  rotate: false
+  xy: 12, 387
+  size: 33, 17
+  orig: 35, 19
+  offset: 1, 1
+  index: -1
+tui1-3
+  rotate: true
+  xy: 12, 349
+  size: 25, 40
+  orig: 28, 43
+  offset: 1, 2
+  index: -1
+tui4-3
+  rotate: true
+  xy: 12, 349
+  size: 25, 40
+  orig: 28, 43
+  offset: 1, 2
+  index: -1
+tui2-1
+  rotate: false
+  xy: 216, 380
+  size: 26, 24
+  orig: 29, 26
+  offset: 2, 1
+  index: -1
+tui3-1
+  rotate: false
+  xy: 216, 380
+  size: 26, 24
+  orig: 29, 26
+  offset: 2, 1
+  index: -1
+tui2-2
+  rotate: true
+  xy: 139, 384
+  size: 20, 26
+  orig: 23, 28
+  offset: 2, 1
+  index: -1
+tui3-2
+  rotate: true
+  xy: 139, 384
+  size: 20, 26
+  orig: 23, 28
+  offset: 2, 1
+  index: -1
+tui2-3
+  rotate: true
+  xy: 177, 384
+  size: 20, 27
+  orig: 22, 29
+  offset: 1, 1
+  index: -1
+tui3-3
+  rotate: true
+  xy: 177, 384
+  size: 20, 27
+  orig: 22, 29
+  offset: 1, 1
+  index: -1
+wei
+  rotate: true
+  xy: 109, 344
+  size: 30, 31
+  orig: 32, 33
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+shg.png
+size: 462,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 172, 193
+  size: 65, 88
+  orig: 88, 96
+  offset: 16, 0
+  index: -1
+2
+  rotate: false
+  xy: 12, 190
+  size: 72, 91
+  orig: 88, 96
+  offset: 13, 3
+  index: -1
+3
+  rotate: false
+  xy: 172, 10
+  size: 77, 83
+  orig: 89, 96
+  offset: 3, 13
+  index: -1
+4
+  rotate: false
+  xy: 220, 103
+  size: 78, 71
+  orig: 89, 96
+  offset: 3, 25
+  index: -1
+bodong
+  rotate: true
+  xy: 310, 29
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+g-xiao
+  rotate: false
+  xy: 12, 26
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+kuosan
+  rotate: true
+  xy: 172, 103
+  size: 80, 36
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 251, 317
+  size: 199, 199
+  orig: 201, 201
+  offset: 1, 1
+  index: -1
+shitou
+  rotate: true
+  xy: 251, 184
+  size: 123, 178
+  orig: 137, 189
+  offset: 5, 6
+  index: -1
+shitou-lian
+  rotate: false
+  xy: 96, 200
+  size: 60, 81
+  orig: 62, 81
+  offset: 1, 0
+  index: -1
+yuan
+  rotate: true
+  xy: 12, 291
+  size: 225, 227
+  orig: 228, 231
+  offset: 0, 3
+  index: -1

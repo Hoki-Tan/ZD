@@ -1,0 +1,27 @@
+
+fyyz.png
+size: 1788,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: true
+  xy: 12, 99
+  size: 699, 692
+  orig: 699, 692
+  offset: 0, 0
+  index: -1
+shengbo
+  rotate: false
+  xy: 1201, 225
+  size: 575, 573
+  orig: 577, 574
+  offset: 1, 0
+  index: -1
+shihou1
+  rotate: false
+  xy: 716, 10
+  size: 473, 788
+  orig: 498, 799
+  offset: 16, 5
+  index: -1

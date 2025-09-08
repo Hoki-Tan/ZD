@@ -1,0 +1,125 @@
+
+fd-qianyao.png
+size: 1075,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 572, 41
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 792, 65
+  size: 274, 276
+  orig: 277, 296
+  offset: 0, 9
+  index: -1
+gq
+  rotate: true
+  xy: 828, 653
+  size: 144, 145
+  orig: 146, 146
+  offset: 1, 1
+  index: -1
+gz
+  rotate: true
+  xy: 2, 9
+  size: 6, 53
+  orig: 6, 54
+  offset: 0, 1
+  index: -1
+合成-1_00003
+  rotate: true
+  xy: 699, 102
+  size: 64, 66
+  orig: 373, 451
+  offset: 95, 109
+  index: -1
+合成-1_00004
+  rotate: true
+  xy: 975, 665
+  size: 132, 98
+  orig: 373, 451
+  offset: 77, 95
+  index: -1
+合成-1_00005
+  rotate: false
+  xy: 572, 168
+  size: 190, 132
+  orig: 373, 451
+  offset: 59, 83
+  index: -1
+合成-1_00006
+  rotate: false
+  xy: 828, 799
+  size: 241, 171
+  orig: 373, 451
+  offset: 42, 72
+  index: -1
+合成-1_00007
+  rotate: false
+  xy: 2, 17
+  size: 292, 210
+  orig: 373, 451
+  offset: 26, 62
+  index: -1
+合成-1_00008
+  rotate: true
+  xy: 232, 241
+  size: 342, 229
+  orig: 373, 451
+  offset: 13, 76
+  index: -1
+合成-1_00009
+  rotate: true
+  xy: 792, 341
+  size: 310, 276
+  orig: 373, 451
+  offset: 63, 65
+  index: -1
+合成-1_00010
+  rotate: false
+  xy: 463, 302
+  size: 327, 328
+  orig: 373, 451
+  offset: 46, 54
+  index: -1
+合成-1_00011
+  rotate: false
+  xy: 295, 632
+  size: 288, 338
+  orig: 373, 451
+  offset: 30, 14
+  index: -1
+合成-1_00012
+  rotate: false
+  xy: 2, 229
+  size: 228, 354
+  orig: 373, 451
+  offset: 15, 0
+  index: -1
+合成-1_00013
+  rotate: false
+  xy: 296, 2
+  size: 274, 237
+  orig: 373, 451
+  offset: 0, 141
+  index: -1
+合成-1_00014
+  rotate: false
+  xy: 585, 653
+  size: 241, 317
+  orig: 373, 451
+  offset: 64, 90
+  index: -1
+合成-1_00015
+  rotate: false
+  xy: 2, 585
+  size: 291, 385
+  orig: 373, 451
+  offset: 44, 66
+  index: -1

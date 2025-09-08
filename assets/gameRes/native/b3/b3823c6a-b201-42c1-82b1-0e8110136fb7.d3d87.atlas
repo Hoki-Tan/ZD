@@ -1,0 +1,69 @@
+
+bingbao.png
+size: 664,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00001
+  rotate: true
+  xy: 468, 161
+  size: 32, 28
+  orig: 200, 200
+  offset: 81, 87
+  index: -1
+1_00002
+  rotate: true
+  xy: 575, 162
+  size: 51, 48
+  orig: 200, 200
+  offset: 69, 78
+  index: -1
+1_00003
+  rotate: false
+  xy: 590, 91
+  size: 69, 69
+  orig: 200, 200
+  offset: 57, 67
+  index: -1
+1_00004
+  rotate: false
+  xy: 575, 215
+  size: 87, 91
+  orig: 200, 200
+  offset: 46, 56
+  index: -1
+1_00005
+  rotate: false
+  xy: 468, 195
+  size: 105, 111
+  orig: 200, 200
+  offset: 35, 46
+  index: -1
+1_00006
+  rotate: false
+  xy: 465, 14
+  size: 123, 130
+  orig: 200, 200
+  offset: 24, 36
+  index: -1
+1_00007
+  rotate: true
+  xy: 314, 4
+  size: 140, 149
+  orig: 200, 200
+  offset: 13, 27
+  index: -1
+shanguang
+  rotate: true
+  xy: 314, 146
+  size: 160, 152
+  orig: 160, 152
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 2, 2
+  size: 310, 304
+  orig: 350, 340
+  offset: 27, 10
+  index: -1

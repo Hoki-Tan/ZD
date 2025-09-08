@@ -1,0 +1,90 @@
+
+jineng1.png
+size: 1759,1504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dig
+  rotate: false
+  xy: 1690, 306
+  size: 20, 88
+  orig: 20, 89
+  offset: 0, 0
+  index: -1
+dilie
+  rotate: false
+  xy: 957, 2
+  size: 731, 698
+  orig: 731, 698
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 549
+  size: 953, 953
+  orig: 1031, 1031
+  offset: 39, 39
+  index: -1
+jian
+  rotate: false
+  xy: 1690, 396
+  size: 20, 139
+  orig: 20, 139
+  offset: 0, 0
+  index: -1
+qy
+  rotate: false
+  xy: 957, 702
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+shangsheng_01
+  rotate: false
+  xy: 2, 168
+  size: 49, 172
+  orig: 119, 256
+  offset: 32, 0
+  index: -1
+shangsheng_02
+  rotate: false
+  xy: 2, 342
+  size: 62, 205
+  orig: 119, 256
+  offset: 26, 25
+  index: -1
+shangsheng_03
+  rotate: false
+  xy: 1690, 537
+  size: 60, 163
+  orig: 119, 256
+  offset: 27, 83
+  index: -1
+shangsheng_04
+  rotate: false
+  xy: 66, 426
+  size: 57, 121
+  orig: 119, 256
+  offset: 29, 129
+  index: -1
+shangsheng_05
+  rotate: false
+  xy: 125, 460
+  size: 54, 87
+  orig: 119, 256
+  offset: 32, 166
+  index: -1
+shangsheng_06
+  rotate: false
+  xy: 2, 99
+  size: 48, 67
+  orig: 119, 256
+  offset: 37, 188
+  index: -1
+shangsheng_07
+  rotate: false
+  xy: 66, 378
+  size: 45, 46
+  orig: 119, 256
+  offset: 38, 210
+  index: -1

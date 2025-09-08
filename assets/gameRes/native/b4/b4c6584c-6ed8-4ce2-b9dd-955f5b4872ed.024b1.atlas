@@ -1,0 +1,55 @@
+
+dianjidan.png
+size: 661,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_01
+  rotate: false
+  xy: 2, 120
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+d_02
+  rotate: false
+  xy: 236, 120
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+d_03
+  rotate: true
+  xy: 470, 4
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+d_04
+  rotate: false
+  xy: 2, 2
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+gd
+  rotate: true
+  xy: 588, 141
+  size: 95, 71
+  orig: 103, 79
+  offset: 4, 4
+  index: -1
+hh
+  rotate: false
+  xy: 236, 8
+  size: 207, 110
+  orig: 207, 110
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 445, 12
+  size: 106, 10
+  orig: 108, 10
+  offset: 1, 0
+  index: -1

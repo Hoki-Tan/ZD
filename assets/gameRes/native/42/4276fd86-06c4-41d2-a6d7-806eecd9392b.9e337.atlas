@@ -1,0 +1,55 @@
+
+jineng4-s.png
+size: 803,573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanwei-g
+  rotate: false
+  xy: 559, 50
+  size: 232, 235
+  orig: 232, 235
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 346, 259
+  size: 26, 201
+  orig: 26, 201
+  offset: 0, 0
+  index: -1
+quan-g
+  rotate: false
+  xy: 624, 387
+  size: 159, 176
+  orig: 159, 176
+  offset: 0, 0
+  index: -1
+wu
+  rotate: false
+  xy: 12, 237
+  size: 322, 326
+  orig: 322, 326
+  offset: 0, 0
+  index: -1
+wu-g
+  rotate: false
+  xy: 12, 10
+  size: 380, 217
+  orig: 383, 217
+  offset: 3, 0
+  index: -1
+xialuo-g
+  rotate: true
+  xy: 404, 168
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 346, 295
+  size: 266, 268
+  orig: 278, 278
+  offset: 5, 8
+  index: -1

@@ -1,0 +1,83 @@
+
+bing-shouji.png
+size: 219,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00001
+  rotate: false
+  xy: 73, 43
+  size: 32, 28
+  orig: 200, 200
+  offset: 81, 87
+  index: -1
+1_00002
+  rotate: false
+  xy: 153, 280
+  size: 51, 48
+  orig: 200, 200
+  offset: 69, 78
+  index: -1
+1_00003
+  rotate: false
+  xy: 2, 2
+  size: 69, 69
+  orig: 200, 200
+  offset: 57, 67
+  index: -1
+1_00004
+  rotate: true
+  xy: 115, 21
+  size: 87, 91
+  orig: 200, 200
+  offset: 46, 56
+  index: -1
+1_00005
+  rotate: true
+  xy: 2, 73
+  size: 105, 111
+  orig: 200, 200
+  offset: 35, 46
+  index: -1
+1_00006
+  rotate: true
+  xy: 2, 180
+  size: 123, 130
+  orig: 200, 200
+  offset: 24, 36
+  index: -1
+1_00007
+  rotate: true
+  xy: 2, 305
+  size: 140, 149
+  orig: 200, 200
+  offset: 13, 27
+  index: -1
+bingwu
+  rotate: true
+  xy: 134, 110
+  size: 79, 81
+  orig: 82, 88
+  offset: 2, 2
+  index: -1
+liangguang1
+  rotate: false
+  xy: 153, 388
+  size: 59, 57
+  orig: 73, 65
+  offset: 6, 3
+  index: -1
+liangguang2
+  rotate: true
+  xy: 134, 191
+  size: 87, 83
+  orig: 96, 90
+  offset: 4, 3
+  index: -1
+quan
+  rotate: false
+  xy: 153, 330
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

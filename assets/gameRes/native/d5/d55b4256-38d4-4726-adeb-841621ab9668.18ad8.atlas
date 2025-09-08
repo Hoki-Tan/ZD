@@ -1,0 +1,48 @@
+
+qianyao.png
+size: 609,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00003
+  rotate: false
+  xy: 2, 127
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 304, 127
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 65
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+1_00008
+  rotate: false
+  xy: 304, 65
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 3
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+mf
+  rotate: false
+  xy: 304, 2
+  size: 303, 61
+  orig: 303, 61
+  offset: 0, 0
+  index: -1

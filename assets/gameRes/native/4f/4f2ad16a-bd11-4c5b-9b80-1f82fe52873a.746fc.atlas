@@ -1,0 +1,62 @@
+
+huashandizi.png
+size: 316,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 2, 252
+  size: 274, 121
+  orig: 276, 123
+  offset: 1, 1
+  index: -1
+qunbai
+  rotate: false
+  xy: 278, 258
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 2, 375
+  size: 168, 312
+  orig: 168, 312
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 74
+  size: 73, 176
+  orig: 73, 176
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 158, 181
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 158, 41
+  size: 149, 138
+  orig: 149, 138
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 77, 83
+  size: 67, 167
+  orig: 68, 167
+  offset: 1, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 2, 2
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1

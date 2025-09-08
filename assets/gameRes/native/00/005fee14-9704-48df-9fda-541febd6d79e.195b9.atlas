@@ -1,0 +1,48 @@
+
+shiqv.png
+size: 195,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1
+  rotate: false
+  xy: 113, 36
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 177, 16
+  size: 16, 125
+  orig: 17, 125
+  offset: 1, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 16, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 95, 61
+  size: 80, 80
+  orig: 80, 82
+  offset: 0, 1
+  index: -1
+dao1
+  rotate: false
+  xy: 2, 20
+  size: 109, 29
+  orig: 109, 29
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 2, 51
+  size: 90, 91
+  orig: 92, 91
+  offset: 1, 0
+  index: -1

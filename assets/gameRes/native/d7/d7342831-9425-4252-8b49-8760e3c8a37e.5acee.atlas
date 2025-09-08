@@ -1,0 +1,48 @@
+
+jiumozhi.png
+size: 369,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fozhu
+  rotate: true
+  xy: 237, 7
+  size: 105, 96
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 65
+  size: 135, 199
+  orig: 135, 199
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 292, 114
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 139, 2
+  size: 96, 134
+  orig: 96, 134
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 139, 138
+  size: 126, 151
+  orig: 127, 152
+  offset: 1, 1
+  index: -1
+tui
+  rotate: true
+  xy: 2, 3
+  size: 60, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1

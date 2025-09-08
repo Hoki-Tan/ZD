@@ -1,0 +1,48 @@
+
+jineng3.png
+size: 758,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 12, 10
+  size: 730, 33
+  orig: 732, 33
+  offset: 1, 0
+  index: -1
+ci_01
+  rotate: false
+  xy: 573, 105
+  size: 173, 332
+  orig: 201, 378
+  offset: 14, 30
+  index: -1
+ci_02
+  rotate: false
+  xy: 202, 97
+  size: 174, 340
+  orig: 201, 378
+  offset: 17, 20
+  index: -1
+ci_03
+  rotate: false
+  xy: 12, 96
+  size: 178, 341
+  orig: 201, 378
+  offset: 14, 19
+  index: -1
+ci_04
+  rotate: false
+  xy: 388, 96
+  size: 173, 341
+  orig: 201, 378
+  offset: 17, 19
+  index: -1
+hei
+  rotate: false
+  xy: 12, 53
+  size: 730, 33
+  orig: 732, 33
+  offset: 1, 0
+  index: -1
